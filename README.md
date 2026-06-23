@@ -1,7 +1,7 @@
 # 📊 AtliQ Hardware – Sales Performance Analysis
 
 > **Excel-based business intelligence project** analyzing AtliQ Hardware's sales performance, gross margin trends, and market targets across 23 countries (FY 2019–2021).
-> Built as part of the **[Codebasics Data Analytics Course](https://codebasics.io/)**.
+
 
 ---
 
@@ -30,7 +30,7 @@ atliq-hardware-sales-analysis/
 │
 ├── AtliQ_Hardware_Analysis.xlsx     # Main Excel workbook with all dashboards
 ├── README.md                        # Project documentation
-└── screenshots/                     # Dashboard screenshots
+└── PDFs/                     # Dashboard PDFs
     ├── customer_net_sales.png
     ├── top_10_products.png
     ├── pl_by_market.png
@@ -126,24 +126,7 @@ atliq-hardware-sales-analysis/
 
 ---
 
-## 📸 Dashboard Snapshots
 
-### Customer Net Sales Performance
-![Customer Net Sales](screenshots/customer_net_sales.png)
-
-### Market Performance vs Target
-![Market vs Target](screenshots/market_performance_vs_target.png)
-
-### P&L by Fiscal Year
-![P&L Fiscal Year](screenshots/pl_by_fiscal_year.png)
-
-### Top 10 Products – Growth
-![Top 10 Products](screenshots/top_10_products_growth.png)
-
-### Top 5 Countries – 2021
-![Top 5 Countries](screenshots/top_5_countries_2021.png)
-
----
 
 ## 💡 Business Recommendations
 
